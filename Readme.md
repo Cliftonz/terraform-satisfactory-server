@@ -117,6 +117,7 @@ When you connect to the Server for the first time you will need to claim it and 
   - for ec2
   - If ec2 spot instance, set server save interval to every minute.
 - Create a lambda function to turn off the server after x many hours as a backup.
+- Finish Example deployment
 
 ## Help / Support
 
